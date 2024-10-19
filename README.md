@@ -1,1 +1,1 @@
-This will be the project for my data analysis exercises.
+This project is made for my data analysis exercises.
